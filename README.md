@@ -2,7 +2,7 @@
 
 This is my personal portfolio website, showcasing my skills, projects, and educational background. Feel free to explore the content and get in touch with me.
 
-![Portfolio Screenshot](./images/output/screenshot.png)
+![Portfolio Screenshot](./images/output/image.png)
 
 ## Projects
 
