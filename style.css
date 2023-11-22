@@ -1,0 +1,111 @@
+/* Custom CSS for Portfolio */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+
+.navbar {
+    background-color: #343a40 !important;
+}
+
+.navbar-brand img {
+    filter: brightness(0) invert(1);
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff !important;
+    padding: 0.5rem 1rem;
+}
+
+.navbar-toggler-icon {
+    background-color: #ffffff;
+}
+
+.title h1,
+.title h2,
+.title h4,
+.title h5 {
+    color: #343a40;
+}
+
+.contact {
+    margin-top: 1rem;
+}
+
+.contact i {
+    font-size: 1.2rem;
+    margin-right: .5rem;
+    color: #007bff;
+}
+
+#contactContainer .bi {
+    font-size: 2rem;
+}
+
+#about,
+#experience,
+#project,
+#education,
+#skill,
+#certificate,
+#contact {
+    margin-top: 3rem;
+}
+
+.btn-outline-dark {
+    color: #343a40;
+    border-color: #343a40;
+}
+
+.btn-outline-dark:hover {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+.experienceDetails {
+    border: 1px solid #dee2e6;
+}
+
+.experienceDetails h4 {
+    color: #343a40;
+}
+
+.experienceDetails p {
+    color: #6c757d;
+}
+
+.technology .rounded-pill {
+    background-color: #007bff;
+    color: #ffffff;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding: 0.25rem 0.5rem;
+}
+
+.projectDetails,
+.educationDetails,
+.CertificateContainer {
+    margin-top: 1rem;
+}
+
+.projectDetails img,
+.educationDetails img,
+.CertificateContainer img {
+    max-width: 100%;
+}
+
+.footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 1rem 0;
+}
+
+.footer a {
+    color: #ffffff;
+}
+
+.footer a:hover {
+    text-decoration: none;
+}
